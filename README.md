@@ -1,4 +1,4 @@
-# Lottery-Contract
+# 1ech Lottery-Contract
 
 ---
 
